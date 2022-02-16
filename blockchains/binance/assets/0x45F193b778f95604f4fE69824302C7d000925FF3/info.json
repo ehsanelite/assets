@@ -1,9 +1,0 @@
-"name": "Merchain token",
-"website": "https://merchain.org",
-"description": "Merchain is a set of technologies that simplify cryptocurrency payment for users.",
-"explorer": "https://bscscan.com/token/0x45F193b778f95604f4fE69824302C7d000925FF3",
-"type": "BEP20",
-"symbol": "MAIN",
-"decimals": 18,
-"status": "active",
-"id": "0x45F193b778f95604f4fE69824302C7d000925FF3"
